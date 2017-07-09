@@ -1,4 +1,6 @@
-[v0.0.3](https://github.com/littleflute/m36/edit/master/README.md)
+[v0.0.4](https://github.com/littleflute/m36/edit/master/README.md)
+
+[Iron & Wine/Ghost on Ghost](Iron & Wine/Ghost on Ghost)
 
 [Iron Maiden/613](Iron Maiden/613]
 
