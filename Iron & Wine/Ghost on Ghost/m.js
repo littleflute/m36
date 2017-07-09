@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Caught in the Briars.mp3";		
+f[2]	= "02 The Desert Babbler.mp3";		
+f[3]	= "04 Low Light Buddy of Mine.mp3";		
+f[4]	= "05 Grace for Saints and Ramblers.mp3";		
+f[5]	= "06 Grass Widows.mp3";		
+f[6]	= "07 Singers and the Endless Song.mp3";		
+f[7]	= "08 Sundown (Back in the Briars).mp3";		
+f[8]	= "09 Winter Prayers.mp3";		
+f[9]	= "10 New Mexico's No Breeze.mp3";		
+f[10]	= "11 Lovers' Revolution.mp3";		
+f[11]	= "12 Baby Center Stage.mp3";		
+f[12]	= "Joy.mp3";		
