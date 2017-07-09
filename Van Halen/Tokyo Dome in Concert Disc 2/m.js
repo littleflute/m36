@@ -1,0 +1,15 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Dance the Night Away.mp3";		
+f[2]	= "02 I'll Wait.mp3";		
+f[3]	= "03 And the Cradle Will Rock.mp3";		
+f[4]	= "04 Hot for Teacher.mp3";		
+f[5]	= "05 Women in Love.mp3";		
+f[6]	= "06 Romeo Delight.mp3";		
+f[7]	= "07 Mean Street.mp3";		
+f[8]	= "08 Beautiful Girls.mp3";		
+f[9]	= "09 Ice Cream Man.mp3";		
+f[10]	= "12 Ain't Talkin' 'Bout Love.mp3";		
+f[11]	= "Eruption.mp3";		
+f[12]	= "Jump.mp3";		
+f[13]	= "Panama.mp3";		

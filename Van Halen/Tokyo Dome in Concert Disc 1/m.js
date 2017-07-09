@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "02 Runnin' with the Devil.mp3";		
+f[2]	= "03 She's the Woman.mp3";		
+f[3]	= "04 I'm the One.mp3";		
+f[4]	= "06 Everybody Wants Some.mp3";		
+f[5]	= "07 Somebody Get Me a Doctor.mp3";		
+f[6]	= "08 China Town.mp3";		
+f[7]	= "09 Hear About It Later.mp3";		
+f[8]	= "10 (Oh) Pretty Woman.mp3";		
+f[9]	= "11 Me & You [Drum Solo].mp3";		
+f[10]	= "12 You Really Got Me.mp3";		
+f[11]	= "Tattoo.mp3";		
+f[12]	= "Unchained.mp3";		
