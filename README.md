@@ -2,7 +2,7 @@
 
 [Iron & Wine/Ghost on Ghost](Iron & Wine/Ghost on Ghost)
 
-[Iron Maiden/613](Iron Maiden/613]
+[Iron Maiden/613](Iron Maiden/613)
 
 [Maiden England '88 Disc 1](Maiden England '88 Disc 1)
 
