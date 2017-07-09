@@ -1,0 +1,17 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Churchill's Speech.mp3";		
+f[2]	= "02 Aces High [Live].mp3";		
+f[3]	= "03 2 Minutes to Midnight.mp3";		
+f[4]	= "04 The Trooper.mp3";		
+f[5]	= "05 Wasted Years.mp3";		
+f[6]	= "06 Children of the Damned.mp3";		
+f[7]	= "07 The Number of the Beast.mp3";		
+f[8]	= "08 Run to the Hills.mp3";		
+f[9]	= "09 Phantom of the Opera [Live].mp3";		
+f[10]	= "10 The Evil That Men Do.mp3";		
+f[11]	= "11 Wrathchild [Live].mp3";		
+f[12]	= "12 Can I Play with Madness.mp3";		
+f[13]	= "14 Hallowed Be Thy Name.mp3";		
+f[14]	= "15 Iron Maiden [Live].mp3";		
+f[15]	= "Powerslave.mp3";		
