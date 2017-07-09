@@ -1,0 +1,12 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "02 The Evil That Men Do.mp3";		
+f[2]	= "03 The Prisoner.mp3";		
+f[3]	= "04 Still Life.mp3";		
+f[4]	= "05 Die with Your Boots On.mp3";		
+f[5]	= "06 Infinite Dreams.mp3";		
+f[6]	= "08 Can I Play with Madness.mp3";		
+f[7]	= "09 Heaven Can Wait.mp3";		
+f[8]	= "10 Wasted Years.mp3";		
+f[9]	= "Killers.mp3";		
+f[10]	= "Moonchild.mp3";		
